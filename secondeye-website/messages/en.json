@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "products": "Products",
+    "portfolio": "Portfolio",
+    "partners": "Partners",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Second Eye Security",
+    "subtitle": "Smart Solutions for Telecommunications, IT, and Security Systems",
+    "description": "Establishing new standards in communications, information technology, and security systems",
+    "cta": "Get Free Consultation",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "title": "Who We Are?",
+    "description": "A specialized company in the field of information technology, communications, and security systems, providing the latest technologies and smart solutions for a more advanced and stable work environment, striving to be your first choice."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We offer a range of advanced and professional skills and promising solutions with greater operational efficiency and competitive prices for each of our clients in their various fields",
+    "telecom": {
+      "title": "Telecommunications & Infrastructure Networks",
+      "description": "Integrated network design, network cable installation, telecommunications and PBX solutions, wireless linking projects, UPS power systems"
+    },
+    "security": {
+      "title": "Surveillance Cameras & Security Systems",
+      "description": "Surveillance cameras, door control systems, attendance and departure systems, fire alarm systems, theft alarm systems, vehicle tracking systems, road barriers, smart parking barriers, baggage scanning devices, metal detectors"
+    },
+    "smart": {
+      "title": "Smart Solutions",
+      "description": "We provide smart solutions through AI technology simulation for security, comfort, and safety with easy control of the entire home"
+    }
+  },
+  "vision": {
+    "title": "Our Vision",
+    "description": "Our vision is simple: achieving leadership in our field (communications, IT, and security systems) and earning our clients' trust by meeting all their technical and security needs at a high level of quality and professionalism"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "We work to establish new standards in communications, IT, and security systems through a highly qualified team, united by a love of innovation initiative, driven by challenge and determination to deliver a unique experience to our clients, establishing a long-term partnership"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch for a free consultation",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send",
+    "address": "Address",
+    "location": "Eqtisad St, AlHamra, Riyadh 13216, Saudi Arabia"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "We're proud to partner with the world's best brands"
+  },
+  "clients": {
+    "title": "Our Clients",
+    "subtitle": "We're proud to serve major institutions and companies"
+  },
+  "footer": {
+    "description": "Smart Solutions for Telecommunications, IT, and Security Systems",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "rights": "All Rights Reserved"
+  }
+}
