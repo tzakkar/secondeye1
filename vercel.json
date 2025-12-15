@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd secondeye-website && npm install && npm run build",
-  "outputDirectory": "secondeye-website/.next"
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": ".next"
 }
 
