@@ -1,0 +1,8 @@
+{
+  "buildCommand": "cd secondeye-website && npm run build",
+  "outputDirectory": "secondeye-website/.next",
+  "installCommand": "cd secondeye-website && npm install",
+  "framework": "nextjs",
+  "rootDirectory": "secondeye-website"
+}
+
