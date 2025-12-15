@@ -17,14 +17,14 @@ export default function LanguageSwitcher() {
   return (
     <button
       onClick={toggleLanguage}
-      className="relative group flex items-center space-x-2 rtl:space-x-reverse px-4 py-2 rounded-lg glass border border-white/10 hover:border-cyan-400/30 transition-all"
+      className="flex items-center gap-2 px-4 py-2 rounded-lg bg-white/5 border border-white/10 hover:bg-white/10 transition-colors"
       aria-label="Switch language"
     >
-      <div className="absolute inset-0 bg-white/5 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity" />
-      <Globe size={16} className="text-cyan-400" />
-      <span className="relative text-sm font-medium text-gray-300 group-hover:text-white transition-colors">
+      <Globe size={18} className="text-blue-400" />
+      <span className="text-sm font-medium text-white">
         {locale === 'ar' ? 'EN' : 'العربية'}
       </span>
     </button>
   );
 }
+
