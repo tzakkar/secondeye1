@@ -1,7 +1,8 @@
 import { ReactNode } from 'react';
 
-// Root layout - required by Next.js App Router
-// The locale-specific layout in [locale]/layout.tsx handles html/body and imports globals.css
+// Root layout - Next.js requires this file
+// The actual html/body structure is handled in [locale]/layout.tsx
+// This is a workaround for next-intl with App Router
 export default function RootLayout({
   children,
 }: {
